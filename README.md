@@ -1,4 +1,4 @@
 Printy-Site
 ===========
 
-printy.github.io
+http://23di.github.io/Printy-Site/
